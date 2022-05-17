@@ -1,0 +1,823 @@
+,InternetService,Contract,tenure,Churn
+0,DSL,Month-to-month,9,1
+1,Fiber optic,Month-to-month,14,0
+2,DSL,Two year,64,1
+3,DSL,Two year,72,0
+4,OtherServices,Month-to-month,3,0
+5,DSL,Month-to-month,40,0
+6,OtherServices,Month-to-month,17,0
+7,DSL,Month-to-month,11,1
+8,Fiber optic,Month-to-month,8,0
+9,DSL,One year,47,0
+10,DSL,Month-to-month,18,0
+11,Fiber optic,Month-to-month,5,1
+12,DSL,Month-to-month,1,0
+13,DSL,Month-to-month,48,0
+14,OtherServices,One year,13,0
+15,Fiber optic,Month-to-month,17,1
+16,Fiber optic,Two year,58,0
+17,DSL,One year,7,0
+18,DSL,Month-to-month,4,1
+19,Fiber optic,Month-to-month,70,0
+20,DSL,Month-to-month,8,0
+21,OtherServices,Month-to-month,34,0
+22,Fiber optic,Month-to-month,31,1
+23,DSL,Month-to-month,37,1
+24,Fiber optic,Month-to-month,40,0
+25,OtherServices,Month-to-month,15,0
+26,Fiber optic,Two year,71,0
+27,DSL,Month-to-month,10,1
+28,Fiber optic,Month-to-month,43,0
+29,OtherServices,One year,22,0
+30,Fiber optic,Month-to-month,33,0
+31,OtherServices,Two year,69,0
+32,Fiber optic,Month-to-month,1,1
+33,DSL,Month-to-month,54,0
+34,DSL,Month-to-month,1,1
+35,Fiber optic,One year,63,0
+36,DSL,Two year,71,0
+37,DSL,Two year,55,0
+38,Fiber optic,Month-to-month,13,1
+39,Fiber optic,Month-to-month,4,1
+40,Fiber optic,Two year,66,0
+41,Fiber optic,Month-to-month,56,0
+42,Fiber optic,Month-to-month,32,1
+43,Fiber optic,Month-to-month,3,1
+44,DSL,Two year,69,0
+45,DSL,Month-to-month,26,0
+46,Fiber optic,Month-to-month,24,0
+47,Fiber optic,Month-to-month,2,0
+48,Fiber optic,One year,51,0
+49,Fiber optic,Month-to-month,11,0
+50,Fiber optic,Month-to-month,18,1
+51,Fiber optic,Month-to-month,10,1
+52,Fiber optic,Month-to-month,15,0
+53,OtherServices,One year,23,0
+54,Fiber optic,Two year,72,0
+55,DSL,Two year,70,0
+56,OtherServices,One year,49,0
+57,OtherServices,Month-to-month,28,0
+58,DSL,Two year,72,1
+59,DSL,Month-to-month,34,0
+60,OtherServices,One year,10,0
+61,Fiber optic,Month-to-month,28,1
+62,OtherServices,One year,32,0
+63,Fiber optic,Month-to-month,36,1
+64,DSL,One year,37,0
+65,Fiber optic,One year,45,0
+66,OtherServices,Month-to-month,1,1
+67,Fiber optic,Month-to-month,42,1
+68,OtherServices,Month-to-month,6,0
+69,Fiber optic,Month-to-month,61,0
+70,Fiber optic,Month-to-month,9,0
+71,Fiber optic,One year,59,0
+72,OtherServices,One year,51,0
+73,OtherServices,One year,67,0
+74,DSL,Month-to-month,7,0
+75,Fiber optic,One year,65,0
+76,DSL,Two year,0,0
+77,OtherServices,Month-to-month,16,0
+78,Fiber optic,One year,52,0
+79,DSL,One year,41,0
+80,Fiber optic,Month-to-month,25,0
+81,OtherServices,Month-to-month,1,0
+82,Fiber optic,Month-to-month,17,0
+83,OtherServices,Two year,67,0
+84,DSL,Two year,62,0
+85,DSL,Two year,51,0
+86,Fiber optic,One year,66,0
+87,DSL,Month-to-month,25,0
+88,OtherServices,Two year,56,0
+89,DSL,Month-to-month,14,0
+90,Fiber optic,Month-to-month,64,0
+91,DSL,One year,43,0
+92,Fiber optic,Month-to-month,71,0
+93,Fiber optic,One year,65,1
+94,Fiber optic,Month-to-month,2,1
+95,Fiber optic,Month-to-month,9,1
+96,DSL,Month-to-month,18,1
+97,DSL,One year,41,1
+98,Fiber optic,Month-to-month,20,1
+99,OtherServices,Two year,52,0
+100,Fiber optic,Month-to-month,1,0
+101,OtherServices,Month-to-month,5,0
+102,DSL,Month-to-month,2,0
+103,Fiber optic,One year,50,0
+104,Fiber optic,Month-to-month,7,0
+105,Fiber optic,Month-to-month,30,1
+106,DSL,One year,49,0
+107,DSL,Two year,60,0
+108,Fiber optic,Month-to-month,7,1
+109,Fiber optic,Two year,63,0
+110,DSL,One year,26,0
+111,OtherServices,One year,7,0
+112,DSL,Month-to-month,5,0
+113,OtherServices,Two year,59,0
+114,DSL,One year,36,0
+115,DSL,Month-to-month,19,1
+116,DSL,Two year,49,0
+117,DSL,Two year,35,0
+118,DSL,Two year,57,0
+119,OtherServices,Two year,60,0
+120,Fiber optic,Month-to-month,67,0
+121,Fiber optic,Month-to-month,6,1
+122,DSL,Month-to-month,2,1
+123,DSL,Month-to-month,15,0
+124,DSL,Two year,65,0
+125,Fiber optic,Month-to-month,26,1
+126,DSL,Two year,58,0
+127,Fiber optic,Month-to-month,52,1
+128,OtherServices,One year,61,0
+129,OtherServices,Month-to-month,20,0
+130,OtherServices,Two year,72,0
+131,OtherServices,Two year,27,0
+132,Fiber optic,Month-to-month,52,0
+133,DSL,One year,44,1
+134,Fiber optic,Month-to-month,10,0
+135,Fiber optic,One year,53,0
+136,Fiber optic,Month-to-month,18,0
+137,Fiber optic,Month-to-month,5,0
+138,OtherServices,Month-to-month,18,0
+139,Fiber optic,Month-to-month,50,0
+140,OtherServices,One year,44,0
+141,Fiber optic,One year,66,1
+142,OtherServices,Two year,54,0
+143,Fiber optic,Month-to-month,8,1
+144,Fiber optic,Month-to-month,16,1
+145,Fiber optic,One year,62,1
+146,Fiber optic,Month-to-month,12,1
+147,OtherServices,Month-to-month,10,0
+148,OtherServices,Month-to-month,7,0
+149,DSL,Month-to-month,12,1
+150,Fiber optic,Month-to-month,28,0
+151,DSL,Month-to-month,24,0
+152,DSL,Month-to-month,23,0
+153,OtherServices,One year,18,0
+154,Fiber optic,One year,40,1
+155,OtherServices,One year,17,0
+156,DSL,Two year,63,0
+157,OtherServices,Two year,11,0
+158,DSL,One year,52,0
+159,DSL,Month-to-month,6,0
+160,DSL,Two year,46,0
+161,Fiber optic,One year,56,1
+162,Fiber optic,Month-to-month,46,1
+163,Fiber optic,One year,48,0
+164,DSL,Month-to-month,44,0
+165,OtherServices,Two year,48,0
+166,Fiber optic,Month-to-month,57,0
+167,DSL,Month-to-month,19,0
+168,OtherServices,Two year,40,0
+169,Fiber optic,One year,70,0
+170,DSL,Month-to-month,35,0
+171,DSL,One year,13,0
+172,DSL,Month-to-month,30,0
+173,DSL,Two year,67,0
+174,Fiber optic,Month-to-month,63,0
+175,Fiber optic,Two year,55,0
+176,Fiber optic,Month-to-month,4,0
+177,DSL,One year,34,1
+178,DSL,Two year,71,1
+179,Fiber optic,Month-to-month,31,0
+180,Fiber optic,Month-to-month,14,1
+181,DSL,One year,24,0
+182,DSL,Two year,52,0
+183,Fiber optic,Month-to-month,13,0
+184,OtherServices,One year,55,0
+185,OtherServices,One year,48,0
+186,Fiber optic,Two year,39,1
+187,Fiber optic,One year,55,0
+188,DSL,Month-to-month,7,1
+189,OtherServices,One year,2,1
+190,Fiber optic,Two year,31,0
+191,Fiber optic,Month-to-month,29,1
+192,Fiber optic,Month-to-month,32,0
+193,OtherServices,Month-to-month,22,0
+194,DSL,One year,32,0
+195,Fiber optic,Month-to-month,45,0
+196,DSL,Month-to-month,3,1
+197,DSL,One year,27,0
+198,OtherServices,Two year,45,0
+199,Fiber optic,One year,34,0
+200,OtherServices,Two year,22,0
+201,DSL,One year,46,0
+202,OtherServices,Two year,64,0
+203,Fiber optic,Month-to-month,3,0
+204,DSL,Month-to-month,47,0
+205,Fiber optic,Month-to-month,46,0
+206,DSL,Two year,55,1
+207,Fiber optic,One year,19,1
+208,DSL,Month-to-month,11,0
+209,DSL,Month-to-month,38,0
+210,DSL,One year,63,0
+211,Fiber optic,One year,22,0
+212,DSL,Month-to-month,16,1
+213,OtherServices,One year,33,0
+214,DSL,Month-to-month,48,1
+215,Fiber optic,Two year,68,1
+216,Fiber optic,One year,57,0
+217,Fiber optic,Two year,70,0
+218,DSL,Month-to-month,46,0
+219,DSL,Month-to-month,9,0
+220,OtherServices,Two year,65,0
+221,OtherServices,Two year,39,0
+222,DSL,Two year,43,0
+223,DSL,Month-to-month,21,0
+224,DSL,Month-to-month,3,0
+225,Fiber optic,Month-to-month,51,0
+226,OtherServices,Month-to-month,2,0
+227,Fiber optic,Month-to-month,24,1
+228,OtherServices,One year,26,0
+229,Fiber optic,One year,69,0
+230,Fiber optic,Month-to-month,38,1
+231,Fiber optic,Month-to-month,38,0
+232,OtherServices,Two year,53,0
+233,DSL,Month-to-month,37,0
+234,OtherServices,Two year,46,0
+235,OtherServices,Month-to-month,4,0
+236,DSL,One year,25,0
+237,Fiber optic,Two year,67,0
+238,DSL,One year,35,0
+239,DSL,One year,34,0
+240,Fiber optic,One year,71,0
+241,DSL,Month-to-month,10,0
+242,Fiber optic,Month-to-month,6,0
+243,OtherServices,Month-to-month,29,0
+244,OtherServices,One year,56,0
+245,DSL,One year,38,0
+246,OtherServices,Two year,35,0
+247,Fiber optic,Month-to-month,43,1
+248,DSL,One year,53,0
+249,DSL,One year,51,0
+250,OtherServices,Two year,63,0
+251,Fiber optic,Two year,56,0
+252,Fiber optic,One year,44,0
+253,DSL,Month-to-month,5,1
+254,Fiber optic,Two year,69,0
+255,Fiber optic,Month-to-month,16,0
+256,OtherServices,Month-to-month,46,0
+257,DSL,Two year,68,0
+258,OtherServices,One year,14,0
+259,Fiber optic,Month-to-month,59,0
+260,Fiber optic,Month-to-month,61,1
+261,OtherServices,One year,25,0
+262,Fiber optic,One year,53,1
+263,Fiber optic,Two year,49,1
+264,DSL,One year,11,0
+265,DSL,One year,62,0
+266,DSL,Two year,66,1
+267,DSL,One year,29,0
+268,Fiber optic,One year,67,0
+269,Fiber optic,Month-to-month,30,0
+270,DSL,Month-to-month,4,0
+271,OtherServices,One year,52,0
+272,OtherServices,Two year,71,0
+273,OtherServices,One year,29,0
+274,Fiber optic,Month-to-month,26,0
+275,DSL,One year,21,0
+276,OtherServices,Two year,8,0
+277,Fiber optic,Month-to-month,49,0
+278,Fiber optic,One year,41,0
+279,Fiber optic,One year,72,0
+280,Fiber optic,Month-to-month,34,0
+281,OtherServices,Two year,14,0
+282,DSL,One year,40,0
+283,Fiber optic,Month-to-month,22,1
+284,Fiber optic,One year,61,0
+285,Fiber optic,Month-to-month,33,1
+286,DSL,One year,20,0
+287,DSL,Month-to-month,12,0
+288,OtherServices,Two year,24,0
+289,DSL,Month-to-month,13,0
+290,OtherServices,Month-to-month,32,0
+291,Fiber optic,Month-to-month,50,1
+292,DSL,Month-to-month,42,0
+293,OtherServices,Two year,30,0
+294,Fiber optic,Month-to-month,15,1
+295,Fiber optic,Month-to-month,34,1
+296,Fiber optic,Month-to-month,49,1
+297,OtherServices,Two year,6,0
+298,Fiber optic,Month-to-month,59,1
+299,OtherServices,Two year,47,0
+300,Fiber optic,Month-to-month,36,0
+301,OtherServices,Two year,43,0
+302,Fiber optic,Two year,48,0
+303,DSL,One year,48,0
+304,OtherServices,Two year,41,0
+305,Fiber optic,One year,43,0
+306,Fiber optic,One year,31,0
+307,Fiber optic,Two year,64,0
+308,DSL,Two year,66,0
+309,DSL,Two year,54,0
+310,OtherServices,Month-to-month,5,1
+311,DSL,One year,54,1
+312,Fiber optic,One year,41,1
+313,DSL,Month-to-month,51,0
+314,DSL,Two year,64,0
+315,DSL,One year,18,0
+316,DSL,Month-to-month,6,1
+317,DSL,Month-to-month,28,0
+318,OtherServices,Month-to-month,12,0
+319,Fiber optic,Two year,68,0
+320,DSL,One year,18,1
+321,DSL,One year,44,0
+322,Fiber optic,Month-to-month,39,1
+323,OtherServices,One year,53,0
+324,DSL,One year,55,0
+325,Fiber optic,One year,58,0
+326,Fiber optic,Month-to-month,19,0
+327,DSL,Month-to-month,53,0
+328,DSL,Two year,39,0
+329,Fiber optic,Month-to-month,22,0
+330,OtherServices,One year,60,0
+331,Fiber optic,Month-to-month,55,0
+332,DSL,Month-to-month,65,0
+333,Fiber optic,Two year,61,1
+334,Fiber optic,Month-to-month,45,1
+335,DSL,Two year,14,0
+336,DSL,One year,28,0
+337,OtherServices,One year,9,0
+338,OtherServices,Two year,4,0
+339,DSL,Month-to-month,17,0
+340,OtherServices,Two year,19,0
+341,Fiber optic,Month-to-month,68,0
+342,Fiber optic,Two year,26,0
+343,Fiber optic,One year,60,0
+344,DSL,Two year,47,0
+345,OtherServices,Month-to-month,13,0
+346,Fiber optic,One year,64,1
+347,Fiber optic,One year,28,0
+348,OtherServices,One year,12,0
+349,OtherServices,One year,2,0
+350,OtherServices,Two year,70,0
+351,Fiber optic,One year,38,0
+352,OtherServices,One year,30,0
+353,Fiber optic,Month-to-month,41,1
+354,Fiber optic,Month-to-month,48,0
+355,DSL,Two year,30,0
+356,DSL,Two year,33,0
+357,DSL,One year,70,0
+358,DSL,One year,31,0
+359,Fiber optic,One year,54,1
+360,DSL,Two year,56,0
+361,OtherServices,Two year,61,0
+362,DSL,One year,66,0
+363,DSL,One year,39,0
+364,DSL,One year,57,0
+365,Fiber optic,Month-to-month,47,1
+366,Fiber optic,Month-to-month,29,0
+367,Fiber optic,One year,67,1
+368,OtherServices,Two year,16,0
+369,OtherServices,Month-to-month,40,0
+370,Fiber optic,Month-to-month,68,1
+371,OtherServices,Two year,66,0
+372,Fiber optic,Month-to-month,21,1
+373,Fiber optic,One year,62,0
+374,Fiber optic,Two year,52,0
+375,Fiber optic,One year,48,1
+376,Fiber optic,Two year,39,0
+377,Fiber optic,One year,58,1
+378,OtherServices,Two year,44,0
+379,Fiber optic,Two year,41,0
+380,OtherServices,Two year,23,0
+381,Fiber optic,Two year,67,1
+382,Fiber optic,Two year,61,0
+383,Fiber optic,One year,38,1
+384,OtherServices,Month-to-month,8,1
+385,DSL,One year,56,0
+386,OtherServices,One year,31,0
+387,DSL,Two year,45,0
+388,OtherServices,Two year,18,0
+389,DSL,One year,67,0
+390,Fiber optic,Two year,62,0
+391,Fiber optic,Month-to-month,37,0
+392,OtherServices,Two year,58,0
+393,Fiber optic,Two year,58,1
+394,DSL,Month-to-month,27,0
+395,Fiber optic,One year,56,0
+396,OtherServices,One year,4,0
+397,OtherServices,Two year,17,0
+398,DSL,Month-to-month,17,1
+399,Fiber optic,Two year,54,0
+400,DSL,Month-to-month,13,1
+401,OtherServices,One year,37,0
+402,OtherServices,Month-to-month,8,0
+403,Fiber optic,Month-to-month,55,1
+404,OtherServices,One year,38,0
+405,Fiber optic,Month-to-month,44,0
+406,Fiber optic,Two year,65,0
+407,Fiber optic,One year,54,0
+408,DSL,Month-to-month,8,1
+409,DSL,One year,23,0
+410,DSL,One year,38,1
+411,Fiber optic,Month-to-month,35,1
+412,DSL,Month-to-month,36,0
+413,DSL,Month-to-month,15,1
+414,Fiber optic,Month-to-month,23,0
+415,OtherServices,One year,71,0
+416,Fiber optic,Month-to-month,12,0
+417,OtherServices,Month-to-month,35,0
+418,OtherServices,Month-to-month,25,0
+419,OtherServices,Month-to-month,9,0
+420,DSL,Two year,36,0
+421,DSL,Month-to-month,27,1
+422,DSL,Month-to-month,43,1
+423,OtherServices,One year,42,0
+424,Fiber optic,One year,33,1
+425,DSL,One year,60,0
+426,Fiber optic,Month-to-month,69,0
+427,OtherServices,One year,35,0
+428,Fiber optic,Month-to-month,11,1
+429,DSL,One year,10,0
+430,DSL,Two year,34,0
+431,DSL,Month-to-month,39,1
+432,DSL,Month-to-month,52,0
+433,DSL,Month-to-month,20,0
+434,OtherServices,One year,8,0
+435,OtherServices,Two year,31,0
+436,Fiber optic,Month-to-month,37,1
+437,Fiber optic,One year,59,1
+438,Fiber optic,Month-to-month,21,0
+439,Fiber optic,Month-to-month,27,0
+440,OtherServices,Two year,25,0
+441,OtherServices,Month-to-month,3,1
+442,DSL,Two year,44,0
+443,OtherServices,Two year,12,0
+444,DSL,Month-to-month,68,0
+445,Fiber optic,Two year,50,0
+446,Fiber optic,Month-to-month,60,0
+447,DSL,Month-to-month,25,1
+448,DSL,One year,23,1
+449,DSL,One year,46,1
+450,DSL,Month-to-month,21,1
+451,Fiber optic,One year,47,0
+452,Fiber optic,One year,40,0
+453,OtherServices,Two year,51,0
+454,OtherServices,Two year,0,0
+455,Fiber optic,Month-to-month,35,0
+456,DSL,Month-to-month,31,0
+457,Fiber optic,Month-to-month,23,1
+458,Fiber optic,Two year,49,0
+459,DSL,One year,50,0
+460,DSL,Two year,31,0
+461,Fiber optic,One year,72,1
+462,DSL,One year,5,1
+463,OtherServices,One year,69,0
+464,OtherServices,One year,18,1
+465,Fiber optic,Month-to-month,53,1
+466,Fiber optic,Month-to-month,62,0
+467,Fiber optic,Month-to-month,19,1
+468,DSL,Two year,23,0
+469,Fiber optic,One year,42,0
+470,Fiber optic,Two year,25,0
+471,Fiber optic,Month-to-month,65,0
+472,DSL,One year,30,1
+473,DSL,Two year,59,0
+474,OtherServices,Month-to-month,4,1
+475,Fiber optic,One year,49,0
+476,Fiber optic,Two year,24,0
+477,DSL,One year,54,0
+478,Fiber optic,One year,39,1
+479,DSL,Month-to-month,24,1
+480,OtherServices,One year,39,0
+481,Fiber optic,One year,30,0
+482,Fiber optic,Month-to-month,20,0
+483,Fiber optic,One year,39,0
+484,DSL,Month-to-month,20,1
+485,DSL,One year,58,0
+486,DSL,Month-to-month,50,0
+487,DSL,One year,71,0
+488,OtherServices,One year,27,0
+489,OtherServices,One year,66,0
+490,DSL,Month-to-month,32,0
+491,Fiber optic,Two year,72,1
+492,DSL,Month-to-month,41,0
+493,Fiber optic,Month-to-month,54,1
+494,DSL,Month-to-month,54,1
+495,OtherServices,Two year,50,0
+496,DSL,One year,35,1
+497,DSL,One year,22,0
+498,DSL,Month-to-month,29,1
+499,OtherServices,Two year,57,0
+500,Fiber optic,Month-to-month,47,0
+501,DSL,One year,19,0
+502,OtherServices,One year,21,0
+503,Fiber optic,Month-to-month,58,0
+504,DSL,One year,64,0
+505,OtherServices,One year,11,0
+506,DSL,Month-to-month,64,0
+507,OtherServices,One year,24,0
+508,DSL,Month-to-month,45,0
+509,Fiber optic,Two year,71,1
+510,DSL,Month-to-month,55,0
+511,Fiber optic,One year,26,0
+512,OtherServices,Month-to-month,19,0
+513,Fiber optic,One year,37,1
+514,DSL,Month-to-month,53,1
+515,Fiber optic,Month-to-month,48,1
+516,OtherServices,One year,47,0
+517,OtherServices,Two year,20,0
+518,DSL,One year,9,0
+519,Fiber optic,One year,70,1
+520,DSL,One year,12,0
+521,Fiber optic,Month-to-month,40,1
+522,DSL,Month-to-month,39,0
+523,DSL,One year,45,0
+524,DSL,One year,17,0
+525,DSL,One year,45,1
+526,OtherServices,One year,5,0
+527,Fiber optic,One year,15,0
+528,OtherServices,One year,46,0
+529,DSL,Month-to-month,29,0
+530,DSL,One year,39,1
+531,DSL,One year,42,0
+532,DSL,Month-to-month,22,0
+533,DSL,One year,33,0
+534,Fiber optic,Month-to-month,66,0
+535,Fiber optic,One year,64,0
+536,OtherServices,Month-to-month,27,0
+537,Fiber optic,Month-to-month,65,1
+538,DSL,Month-to-month,31,1
+539,DSL,One year,59,0
+540,Fiber optic,One year,29,0
+541,DSL,Month-to-month,22,1
+542,DSL,Two year,37,0
+543,Fiber optic,Month-to-month,25,1
+544,DSL,Month-to-month,57,0
+545,Fiber optic,Month-to-month,58,1
+546,OtherServices,Month-to-month,11,0
+547,DSL,Two year,42,0
+548,OtherServices,One year,3,0
+549,DSL,Month-to-month,49,0
+550,OtherServices,Two year,21,0
+551,Fiber optic,Two year,53,0
+552,Fiber optic,Month-to-month,53,0
+553,DSL,Month-to-month,33,0
+554,DSL,One year,12,1
+555,Fiber optic,One year,13,0
+556,DSL,One year,15,0
+557,OtherServices,One year,36,0
+558,Fiber optic,One year,46,0
+559,DSL,One year,17,1
+560,OtherServices,Month-to-month,42,0
+561,OtherServices,One year,34,0
+562,Fiber optic,Month-to-month,44,1
+563,Fiber optic,Two year,69,1
+564,OtherServices,Two year,42,0
+565,OtherServices,Month-to-month,15,1
+566,DSL,One year,14,0
+567,Fiber optic,One year,44,1
+568,OtherServices,Two year,13,0
+569,DSL,One year,69,0
+570,OtherServices,Month-to-month,11,1
+571,DSL,Two year,16,0
+572,DSL,One year,61,0
+573,OtherServices,One year,15,0
+574,OtherServices,One year,50,0
+575,OtherServices,Month-to-month,30,1
+576,Fiber optic,One year,12,0
+577,DSL,One year,30,0
+578,OtherServices,Two year,68,0
+579,DSL,Two year,65,1
+580,DSL,Month-to-month,16,0
+581,DSL,One year,42,1
+582,Fiber optic,One year,17,0
+583,DSL,One year,68,0
+584,Fiber optic,One year,27,0
+585,Fiber optic,Two year,43,1
+586,DSL,Two year,50,0
+587,Fiber optic,Month-to-month,51,1
+588,DSL,Two year,48,0
+589,DSL,Two year,67,1
+590,OtherServices,One year,19,0
+591,Fiber optic,Month-to-month,39,0
+592,Fiber optic,One year,19,0
+593,Fiber optic,Month-to-month,41,0
+594,Fiber optic,One year,17,1
+595,DSL,Month-to-month,61,0
+596,OtherServices,One year,8,1
+597,OtherServices,Two year,32,0
+598,Fiber optic,One year,28,1
+599,Fiber optic,Two year,59,0
+600,Fiber optic,Month-to-month,60,1
+601,DSL,Month-to-month,40,1
+602,Fiber optic,One year,4,1
+603,OtherServices,One year,43,0
+604,OtherServices,Two year,9,0
+605,OtherServices,Two year,29,0
+606,Fiber optic,Month-to-month,63,1
+607,Fiber optic,One year,35,1
+608,DSL,Month-to-month,52,1
+609,Fiber optic,One year,18,0
+610,DSL,Month-to-month,58,0
+611,OtherServices,Month-to-month,41,0
+612,DSL,Two year,53,0
+613,OtherServices,Two year,34,0
+614,Fiber optic,Month-to-month,54,0
+615,Fiber optic,One year,37,0
+616,Fiber optic,Month-to-month,27,1
+617,DSL,Two year,61,0
+618,Fiber optic,Two year,42,0
+619,OtherServices,Month-to-month,47,0
+620,DSL,Month-to-month,14,1
+621,Fiber optic,Month-to-month,42,0
+622,DSL,Month-to-month,57,1
+623,DSL,Month-to-month,60,0
+624,DSL,One year,1,0
+625,OtherServices,One year,20,0
+626,OtherServices,Month-to-month,26,0
+627,DSL,One year,49,1
+628,Fiber optic,Month-to-month,56,1
+629,DSL,Two year,21,0
+630,Fiber optic,Month-to-month,66,1
+631,OtherServices,One year,41,0
+632,Fiber optic,One year,52,1
+633,OtherServices,One year,6,0
+634,Fiber optic,Month-to-month,70,1
+635,Fiber optic,Month-to-month,71,1
+636,OtherServices,One year,64,0
+637,OtherServices,Month-to-month,21,0
+638,Fiber optic,One year,21,0
+639,DSL,Two year,12,0
+640,OtherServices,Two year,59,1
+641,DSL,Month-to-month,55,1
+642,OtherServices,Two year,62,0
+643,Fiber optic,Month-to-month,72,0
+644,OtherServices,One year,72,0
+645,OtherServices,Two year,37,0
+646,Fiber optic,Two year,35,0
+647,Fiber optic,One year,23,0
+648,OtherServices,Two year,26,0
+649,Fiber optic,One year,47,1
+650,OtherServices,One year,1,0
+651,OtherServices,Month-to-month,7,1
+652,OtherServices,One year,68,0
+653,DSL,Month-to-month,30,1
+654,Fiber optic,Two year,60,0
+655,Fiber optic,One year,69,1
+656,Fiber optic,One year,61,1
+657,OtherServices,One year,62,0
+658,OtherServices,Month-to-month,33,0
+659,OtherServices,Two year,33,0
+660,Fiber optic,Two year,46,0
+661,DSL,Month-to-month,26,1
+662,Fiber optic,One year,49,1
+663,OtherServices,Two year,33,1
+664,DSL,One year,65,0
+665,OtherServices,One year,70,0
+666,OtherServices,Month-to-month,24,0
+667,DSL,Month-to-month,59,0
+668,OtherServices,Month-to-month,16,1
+669,OtherServices,Two year,55,0
+670,DSL,Two year,8,0
+671,DSL,Month-to-month,43,0
+672,DSL,Two year,3,0
+673,DSL,Two year,10,0
+674,Fiber optic,One year,35,0
+675,DSL,Month-to-month,34,1
+676,DSL,Two year,7,0
+677,Fiber optic,One year,20,0
+678,Fiber optic,One year,68,0
+679,Fiber optic,Two year,57,1
+680,OtherServices,Month-to-month,14,0
+681,Fiber optic,Two year,43,0
+682,DSL,One year,68,1
+683,Fiber optic,One year,25,1
+684,DSL,One year,36,1
+685,Fiber optic,One year,51,1
+686,OtherServices,One year,58,0
+687,DSL,One year,6,0
+688,Fiber optic,One year,33,0
+689,DSL,Month-to-month,42,1
+690,OtherServices,Two year,3,0
+691,Fiber optic,One year,46,1
+692,Fiber optic,One year,68,1
+693,Fiber optic,One year,7,0
+694,OtherServices,One year,16,0
+695,OtherServices,One year,45,0
+696,OtherServices,Month-to-month,2,1
+697,OtherServices,Two year,38,0
+698,OtherServices,Two year,15,0
+699,DSL,Two year,24,0
+700,DSL,One year,3,0
+701,Fiber optic,One year,32,0
+702,DSL,Two year,26,0
+703,OtherServices,Month-to-month,37,0
+704,DSL,One year,25,1
+705,DSL,One year,57,1
+706,Fiber optic,Month-to-month,62,1
+707,DSL,One year,70,1
+708,OtherServices,Month-to-month,12,1
+709,Fiber optic,One year,55,1
+710,DSL,One year,7,1
+711,OtherServices,Month-to-month,9,1
+712,Fiber optic,One year,9,0
+713,DSL,Two year,6,0
+714,OtherServices,Two year,49,0
+715,DSL,Month-to-month,41,1
+716,OtherServices,Two year,25,1
+717,Fiber optic,Two year,57,0
+718,DSL,One year,21,1
+719,Fiber optic,One year,36,0
+720,Fiber optic,Month-to-month,57,1
+721,DSL,One year,40,1
+722,OtherServices,Month-to-month,36,0
+723,DSL,Month-to-month,59,1
+724,OtherServices,Two year,1,0
+725,DSL,Two year,15,0
+726,OtherServices,Month-to-month,38,0
+727,DSL,One year,22,1
+728,DSL,Month-to-month,56,0
+729,DSL,Two year,22,0
+730,OtherServices,One year,53,1
+731,Fiber optic,One year,50,1
+732,Fiber optic,One year,43,1
+733,Fiber optic,One year,14,1
+734,OtherServices,One year,40,0
+735,OtherServices,One year,63,0
+736,OtherServices,Month-to-month,17,1
+737,Fiber optic,Two year,48,1
+738,OtherServices,One year,45,1
+739,DSL,One year,69,1
+740,OtherServices,One year,28,0
+741,DSL,Month-to-month,62,0
+742,OtherServices,Month-to-month,6,1
+743,DSL,Two year,38,0
+744,OtherServices,Two year,56,1
+745,DSL,Month-to-month,58,1
+746,Fiber optic,Month-to-month,69,1
+747,Fiber optic,One year,10,0
+748,DSL,One year,53,1
+749,DSL,Month-to-month,66,0
+750,DSL,Two year,20,0
+751,OtherServices,One year,25,1
+752,DSL,Two year,29,0
+753,Fiber optic,Two year,33,0
+754,Fiber optic,Two year,66,1
+755,DSL,Month-to-month,44,1
+756,DSL,Month-to-month,67,0
+757,OtherServices,Two year,36,0
+758,OtherServices,Month-to-month,61,1
+759,DSL,Two year,70,1
+760,OtherServices,Two year,10,0
+761,Fiber optic,Two year,70,1
+762,Fiber optic,One year,60,1
+763,OtherServices,One year,12,1
+764,DSL,Month-to-month,60,1
+765,Fiber optic,Two year,45,0
+766,OtherServices,Month-to-month,23,0
+767,DSL,One year,8,0
+768,DSL,One year,19,1
+769,DSL,Two year,13,0
+770,Fiber optic,One year,24,0
+771,Fiber optic,Two year,36,0
+772,Fiber optic,One year,63,1
+773,Fiber optic,Two year,65,1
+774,DSL,Month-to-month,38,1
+775,OtherServices,Month-to-month,31,1
+776,OtherServices,Two year,7,0
+777,DSL,Month-to-month,49,1
+778,DSL,One year,16,0
+779,OtherServices,Month-to-month,44,0
+780,Fiber optic,Two year,50,1
+781,DSL,One year,9,1
+782,DSL,One year,48,1
+783,DSL,Month-to-month,46,1
+784,OtherServices,Two year,5,0
+785,OtherServices,One year,65,0
+786,Fiber optic,One year,31,1
+787,DSL,Two year,2,0
+788,OtherServices,Month-to-month,55,0
+789,OtherServices,Month-to-month,20,1
+790,DSL,Two year,25,0
+791,Fiber optic,Two year,54,1
+792,OtherServices,One year,57,0
+793,DSL,One year,13,1
+794,DSL,Month-to-month,35,1
+795,Fiber optic,One year,32,1
+796,DSL,One year,58,1
+797,Fiber optic,One year,16,0
+798,OtherServices,Two year,28,0
+799,Fiber optic,Two year,34,0
+800,OtherServices,Two year,53,1
+801,DSL,Month-to-month,71,0
+802,OtherServices,One year,0,0
+803,Fiber optic,Two year,52,1
+804,DSL,Two year,32,0
+805,Fiber optic,One year,12,1
+806,DSL,One year,33,1
+807,OtherServices,One year,54,0
+808,DSL,Two year,46,1
+809,DSL,Two year,27,0
+810,DSL,One year,11,1
+811,DSL,One year,65,1
+812,DSL,Two year,41,0
+813,Fiber optic,Two year,44,0
+814,DSL,One year,31,1
+815,OtherServices,One year,59,0
+816,Fiber optic,Two year,37,0
+817,DSL,One year,51,1
+818,OtherServices,Month-to-month,31,0
+819,OtherServices,One year,56,1
+820,Fiber optic,Two year,38,0
+821,Fiber optic,Month-to-month,67,1
