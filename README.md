@@ -1,6 +1,10 @@
 <h1 align = "center"><b>CHAPSTONE PROJECT III</b></h1><br>
 <h1 align = "center"><b>TELCO CUSTOMER CHURN</b></h1><br>
 
+<p align="center">
+  <img width="800" height="300" src="https://github.com/AlfiAlfian/Capstone_Project_III_Machine_Learning/blob/main/image/churn_illustration.png">
+</p>
+
 <h1 class="list-group-item list-group-item-action active" data-toggle="list" role="tab" aria-controls="home">TABLE OF CONTENT</h1>
 
 <a id="toc"></a>
